@@ -2,6 +2,8 @@
 
 Minimal script to test the performance of image conversions with PHP and ImageMagick.
 
+![Screenshot of the results page of the script.](./screenshot.png)
+
 ## Dependencies
 * PHP
 * ImageMagick 
