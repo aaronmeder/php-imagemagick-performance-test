@@ -1,0 +1,1 @@
+# php-imagemagick-performance-test
